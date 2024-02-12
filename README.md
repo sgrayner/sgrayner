@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center">I'm a data analyst.</h3>
 
-- 🌱 I’m currently preparing for **Microsoft Power BI PL-300 exam**
+- 🌱 I am interested in broadening my knowledge of data analysis and data science software. I’m currently preparing for the **Microsoft Power BI PL-300 exam**. I am also currently interested in learning more about scikit-learn.
 
 - 👨‍💻 All of my projects are available at [https://github.com/sgrayner?tab=repositories](https://github.com/sgrayner?tab=repositories)
 
